@@ -669,7 +669,8 @@
                 </div>
                 <div class="col-md-6 text-end">
                     <p class="text-white-50 mb-0">
-                        Laravel v{{ Illuminate\Foundation\Application::VERSION }} (PHP v{{ PHP_VERSION }})
+                        <!-- Laravel v{{ Illuminate\Foundation\Application::VERSION }} (PHP v{{ PHP_VERSION }}) -->
+                        Laravel OHSS Project
                     </p>
                 </div>
             </div>
